@@ -2,7 +2,7 @@
   "name": "task-manager",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://subhashnalam.github.io/task-manager",
+  "homepage": "https://subhashnalam.github.io/task-manager/",
 
   "dependencies": {
     "react": "^18.2.0",
